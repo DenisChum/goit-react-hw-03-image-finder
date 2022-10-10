@@ -22,3 +22,4 @@ export default async function pixabayApi(query, page = 1) {
     throw error;
   }
 }
+
